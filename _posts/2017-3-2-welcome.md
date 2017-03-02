@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: My first blog
 ---
 
 Welcome to my personal website.
